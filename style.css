@@ -1,0 +1,189 @@
+.container-fluid{
+    background-color: #303841;
+    
+    
+    .navbar-brand{
+     color: #24babc;
+    }
+    .bi-book-half{
+    color: #24babc;
+    fill:#24babc;
+    }
+    }
+    
+    .navbar-nav .nav-item:nth-child(1) .nav-link,
+    .navbar-nav .nav-item:nth-child(2) .nav-link, 
+    .navbar-nav .nav-item:nth-child(3) .nav-link {  
+        color:#53a8b6;}
+    
+    .navbar .btn-outline-success {
+            background-color:#b9e7ee; 
+            color: white; 
+            border-color: #53a8b6; 
+        }
+
+        html {
+            scroll-behavior: smooth;
+          }
+        
+         .cards{
+
+            .title{
+                color: #303841;
+                font-size: 50px;
+           
+            }
+           
+            background-color: #b9e7ee;
+            margin-top: 0px;
+            margin-bottom: 5px;
+            margin-left: 5px;
+            margin-right: 5px;
+
+            .card{
+            border: #303841;
+        
+            border: 1px solid #303841; /* Border width, style, and color */
+            border-radius: 12px;     /* Rounded corners */
+            padding: 16px;          /* Inner spacing */
+            margin: 16px;           /* Outer spacing */
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow for depth */
+            background-color: #fff;
+            }
+        
+                 display: flex;               /* Enable flexbox */
+                justify-content: space-around; /* Distribute space around cards */
+                flex-wrap: wrap;            /* Allow wrapping to next line on smaller screens */
+           .card2{
+            border: #303841;
+            border: 1px solid #303841; /* Border width, style, and color */
+            border-radius: 12px;     /* Rounded corners */
+            padding: 16px;          /* Inner spacing */
+            margin: 16px;           /* Outer spacing */
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow for depth */
+            background-color: #fff;
+           
+            
+        
+           }
+           .card3{
+            border: #4c9173;
+            border: 1px solid #303841; /* Border width, style, and color */
+            border-radius: 12px;     /* Rounded corners */
+            padding: 16px;          /* Inner spacing */
+            margin: 16px;           /* Outer spacing */
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow for depth */
+            background-color: #fff;
+            }
+            
+        }
+        
+        .btn{
+            background-color: #303841;
+        }
+
+        .tourism{
+
+            .title{
+                color: #303841;
+                font-size: 50px;
+           
+            }
+            background-color: #b9e7ee;
+            margin-top: 10px;
+            margin-left: 5px;
+            margin-right: 5px;
+            
+            .card{
+                border: #303841;
+            
+                border: 1px solid #303841; /* Border width, style, and color */
+                border-radius: 12px;     /* Rounded corners */
+                padding: 16px;          /* Inner spacing */
+                margin: 16px;           /* Outer spacing */
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow for depth */
+                background-color: #fff;
+                }
+            
+                     display: flex;               /* Enable flexbox */
+                    justify-content: space-around; /* Distribute space around cards */
+                    flex-wrap: wrap;            /* Allow wrapping to next line on smaller screens */
+               
+               .card2{
+                border: #303841;
+                border: 1px solid #303841; /* Border width, style, and color */
+                border-radius: 12px;     /* Rounded corners */
+                padding: 16px;          /* Inner spacing */
+                margin: 16px;           /* Outer spacing */
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow for depth */
+                background-color: #fff;
+               }
+               .card3{
+                border: #4c9173;
+                border: 1px solid #303841; /* Border width, style, and color */
+                border-radius: 12px;     /* Rounded corners */
+                padding: 16px;          /* Inner spacing */
+                margin: 16px;           /* Outer spacing */
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow for depth */
+                background-color: #fff;
+                }
+                
+            }
+            
+            .btn{
+                background-color: #303841;
+            }
+    .footer{
+        background-color:#303841;
+        text-align: center;
+        color: #53a8b6;
+    }
+
+    /*about*/
+    #about{
+        
+        margin-bottom: 5px;
+        margin-left: 5px;
+        margin-right: 5px;
+       color: #303841;
+        
+        text-align: left;
+    }
+    
+    .logo{
+        display: flex;
+        justify-content: center; /* Centers image horizontally */
+        align-items: center; /* Centers image vertically */
+        
+    }
+
+    /*ai.html*/
+    .headline{
+        color: #303841;
+        text-align: center;
+    }
+    .text{
+        margin-left: 5%;
+        margin-right: 5%;
+        text-align: left;
+       
+    }
+
+    .comment{
+        color: #303841;
+        background-color: #b9e7ee;
+        width: 100%;
+
+        #commentInput{
+            width: 100%;
+            padding: 10px; 
+            font-size: 16px;
+            border: 2px solid #ccc;
+            border-radius: 8px; 
+            resize: vertical; 
+            outline: none; 
+            box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+        }
+    }
+    
+    
